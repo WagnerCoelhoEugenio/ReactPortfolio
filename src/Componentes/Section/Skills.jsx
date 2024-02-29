@@ -5,7 +5,7 @@ function Skills() {
     const timelineData = [
         { year: '2021', description: 'Gerente de projetos de Mutinacional no estado do Espirito Santo/Es.' },
         { year: '2022', description: 'Gerente de Projetos e coordenador de equipe de Multinacional do Estado do espirito Santo e Rio de Janeiro.' },
-        { year: '2023', description: 'Diretor de logistica da empresa LOGX EXPRESS, nivel Brasil.' },
+        { year: '2023', description: 'Diretor de logistica da empresa LOGX EXPRESS, nivel Brasil e Argentina.' },
         { year: '2024', description: 'Diretor de logistica da Empresa LOGX EXPRESS na Inglaterra.' },
 
     ];
