@@ -1,0 +1,36 @@
+.down {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.Down ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.Down li {
+    margin: 50px;
+
+}
+
+.Down p {
+    width: 288px;
+    height: 126px;
+    top: 3435px;
+    left: 691px;
+    margin: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+.Down a {
+    color: aliceblue !important;
+}

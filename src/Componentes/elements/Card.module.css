@@ -1,0 +1,12 @@
+.Card {
+    display: flex;
+    flex-direction: column-reverse;
+    float: left;
+    margin-right: 100px;
+
+}
+
+.Card img {
+    width: 550px;
+
+}

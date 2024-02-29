@@ -1,0 +1,18 @@
+.Presentation {
+    text-align: left;
+
+}
+
+.Presentation h4 {
+    width: 890px;
+    top: 294px;
+    left: 192px;
+    height: 96px;
+    font-size: 50px;
+}
+
+.Presentation p {
+    margin-top: -60px;
+    margin-left: 20px;
+
+}

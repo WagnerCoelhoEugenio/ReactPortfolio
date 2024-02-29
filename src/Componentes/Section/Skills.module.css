@@ -1,0 +1,51 @@
+.Skills h1 {
+    width: 264px;
+    top: 896px;
+}
+
+
+.timelineHorizontal {
+    display: flex;
+    align-items: center;
+    position: relative;
+
+
+}
+
+.timelineItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 50px;
+    margin-top: 30px;
+
+}
+
+.timelinePoint {
+    width: 10px;
+    height: 10px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
+}
+
+.timelineContent {
+    text-align: center;
+}
+
+.timelineContent h3 {
+    font-size: 1.5em;
+
+}
+
+.timelineContent p {
+    margin-top: 10px;
+}
+
+.connectorLine {
+    flex: 1;
+    height: 2px;
+    background-color: aliceblue;
+    margin-top: 5px;
+}
